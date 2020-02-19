@@ -1,0 +1,5 @@
+C:\Users\Bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Release\MakeGTASession.exe.config
+C:\Users\Bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Release\MakeGTASession.exe
+C:\Users\Bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Release\MakeGTASession.pdb
+C:\Users\Bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\obj\Release\MakeGTASession.exe
+C:\Users\Bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\obj\Release\MakeGTASession.pdb

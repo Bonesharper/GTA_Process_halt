@@ -1,0 +1,6 @@
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\obj\Debug\MakeGTASession.csprojResolveAssemblyReference.cache
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Debug\MakeGTASession.exe.config
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Debug\MakeGTASession.exe
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\bin\Debug\MakeGTASession.pdb
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\obj\Debug\MakeGTASession.exe
+c:\users\bone\documents\visual studio 2017\Projects\MakeGTASession\MakeGTASession\obj\Debug\MakeGTASession.pdb
